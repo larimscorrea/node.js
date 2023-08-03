@@ -1,4 +1,5 @@
-const app = require('./src/app.js');
+import app from './src/app.js';
+
 // Resto do seu código aqui
 //Mudei o nome da const para porta. O nome era app.
 const porta = 3001;
